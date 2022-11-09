@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Stocktaking'
-date: 2022-11-07
+date: '2022-11-08 08:00:00 +0800'
+categories: WMS
 ---
 
 ## Stock management
-
 * Inventory or stock management
 * Warehouse management
     * Warehouse managers are in a position to advise their inventory colleagures on
@@ -40,9 +40,9 @@ The goal is to identify the items in the C to X categories and act accordingly. 
 A quick and easy way to ascertaining whether there is an excess of slowmoving stock in the warehouse is to calculate the stock turn:
 
 ```
-            Stock turn = cost of goods sold / average cost of goods stored
+    Stock turn = cost of goods sold / average cost of goods stored
 or:
-            Annual throughput in units / average number of units held in stock
+    Annual throughput in units / average number of units held in stock
 ```
 
 ---
