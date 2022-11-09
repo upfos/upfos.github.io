@@ -5,17 +5,7 @@ date: '2022-11-08 08:00:00 +0800'
 categories: WMS
 ---
 
-## Stock management
-* Inventory or stock management
-* Warehouse management
-    * Warehouse managers are in a position to advise their inventory colleagures on
-        * **levels of safty stock**
-        * **the specific movements and characteristics of particular stock items**.
-    * However, they tend to stop short of determining **stock levels**.
-    * They are not involved directly in the **choice, purchase and replenishmet** of stock.
-    * They can play a role in the identification of **fast-, medium-, slow-, non-moving and obsolete stock**.
-
-**Stock classification**
+## Stock classification
 
 Classification | Description | % of stock items
 --- | --- | ---
@@ -35,8 +25,6 @@ The goal is to identify the items in the C to X categories and act accordingly. 
 * donate to charities; or
 * dispose of the product as cheaply as possible. This may incure charges but it will release space to store other faster-moving product in its place.
 
----
-
 A quick and easy way to ascertaining whether there is an excess of slowmoving stock in the warehouse is to calculate the stock turn:
 
 ```
@@ -44,8 +32,6 @@ A quick and easy way to ascertaining whether there is an excess of slowmoving st
 or:
     Annual throughput in units / average number of units held in stock
 ```
-
----
 
 * 150+: world class using just-in-time techinques;
 * 120+: chilled foods;
@@ -76,7 +62,4 @@ A move towards **cycle counting** or **perpetual inventory counts** as a replace
     * What you are planning to count
     * When you plan to undertake the stock count
     * What tools and equipment you need and the timescale allotted
-
 * Prior to the start of the count ensure that all items have been put away in their correct location and try to despatch as many items as possible prior to the stock take.
-* 
-
