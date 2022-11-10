@@ -22,3 +22,5 @@ Foam pellets | ![Foam pellets](/assets/foam-pellets.jpeg)
 Air filled bags | ![](/assets/air-filled-bags.png)
 Corrugated paper | ![](/assets/corrugated-paper.webp)
 Shredded paper | ![](/assets/shredded-paper.png)
+Pallet | ![](/assets/pallet.webp)
+
